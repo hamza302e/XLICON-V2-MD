@@ -10,6 +10,7 @@ global.owner = [
   
   ['923207614149', 'Developer', true], 
   ['923417680053', 'Developer2', true], 
+   ['923417680053', 'Developer2', true],
   
  
   
