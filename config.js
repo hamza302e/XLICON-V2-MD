@@ -10,13 +10,13 @@ global.owner = [
   
   ['923207614149', 'Developer', true], 
   ['923417680053', 'Developer2', true], 
-   ['923417680053', 'Developer2', true],
+   ['923216987454', 'Developer2', true],
   
  
   
 ] //Number of owners
 
-//global.pairingNumber = "923297614149" //put your bot number here
+//global.pairingNumber = "923216987454" //put your bot number here
 
 global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233208179431'] 
 global.prems = ['923184070915','233208179431','94789481495', '918360234087','233531910067']
