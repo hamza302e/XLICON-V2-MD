@@ -8,15 +8,15 @@ import axios from 'axios'
 
 global.owner = [
   
-  ['923207614149', 'Developer', true], 
-  ['923417680053', 'Developer2', true], 
-   ['916296614483', 'Developer2', true],
+  ['17813840661', 'Developer', true], 
+ 
+   
   
  
   
 ] //Number of owners
 
-//global.pairingNumber = "916296614483" //put your bot number here
+//global.pairingNumber = "17813840661" //put your bot number here
 
 global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233208179431'] 
 global.prems = ['923184070915','233208179431','94789481495', '918360234087','233531910067']
@@ -57,12 +57,12 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'Developer'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
+global.packname = 'DEVELOPER TEAM' 
+global.author = '@Developer-V2' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = 'https://chat.whatsapp.com/L53WaijPdHo9lhNDbfRRZX' 
-global.dygp = 'https://chat.whatsapp.com/L53WaijPdHo9lhNDbfRRZX'
-global.fgsc = 'https://chat.whatsapp.com/L53WaijPdHo9lhNDbfRRZX' 
+global.igfg = 'https://chat.whatsapp.com/HtYi4zbAwUbCeSOBJCa00V' 
+global.dygp = 'https://chat.whatsapp.com/HtYi4zbAwUbCeSOBJCa00V'
+global.fgsc = 'https://chat.whatsapp.com/HtYi4zbAwUbCeSOBJCa00V' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
 global.fglog = 'XLICON.jpg' 
